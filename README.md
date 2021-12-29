@@ -1,2 +1,3 @@
-# dev-pessoas-de-tech-2
-Olha, um segundo desafio!
+# Challenge Front end - desafio 2
+## Temos um segundo desafio
+
