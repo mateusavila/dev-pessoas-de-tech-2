@@ -1,5 +1,5 @@
 
-# Dev Hall Challenge Front end - desafio 1  
+# Desafio Front End Pessoas de tech - desafio 2  
   
 Nossa incrível agência melhorou seus processos, afinal viu que os desenvolvedores que trabalham para ela são talentosos e querem fazer belos projetos. Os clientes começaram a pagar um pouco mais, e exigiram um projeto de melhor qualidade. Afinal, temos que progredir, certo? 
 
