@@ -46,16 +46,16 @@ Sim. Diferente da versão 1, a gente desta vez quer ver se você envia os dados 
 **7) Pode usar alguma imagem diferente?**  
 Apenas na sessão de notícias que o designer liberou a utilização de imagens diferentes. Nas outras, seja fiel ao design proposto.
 
-**8) Eu preciso subir este site numa URL pública?**
+**8) Eu preciso subir este site numa URL pública?**  
 Sim. Há serviços que podem ajudar nisto, como github pages, surge.sh, heroku. E há hospedagens apache bem baratinhas que podem ajudar você a entregar valor. Lembrando que sem este link, o seu projeto não será corrigido.
 
-**9) Eu preciso subir num repositório público?**
+**9) Eu preciso subir num repositório público?**  
 Sim. Pode ser em qualquer serviço git, como github, gitlab ou bitbucket. Só que o repositório precisa ser público. Lembrando que sem este repositório, o seu projeto não será corrigido.
 
-**10) Preciso ter branches além da master (main)?**
+**10) Preciso ter branches além da master (main)?**  
 Não é necessário. Mas se criar branches, avise no seu README.md.
 
-**11) Pode fazer com algum colega, pra estudarmos juntos?**
+**11) Pode fazer com algum colega, pra estudarmos juntos?**  
 Sim. Fiquem a vontade. A avaliação será feita da mesma forma.
 
 ## O que vamos avaliar?
